@@ -1,4 +1,4 @@
-# Hola 👋 Soy Facundo Vázquez
+# Hola 👋 Soy Facundo Vazquez
 
 Soy estudiante de la Tecnicatura en Programación, enfocado en desarrollo backend y bases de datos.
 
