@@ -51,13 +51,8 @@
 - Ansible  
 - Terraform  
 
----
 
-## 📊 Estadísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=facuvazquez1&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=facuvazquez1&layout=compact&theme=dark)
 
 
 
