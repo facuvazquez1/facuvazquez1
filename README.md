@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hola,+soy+Facundo+Vazquez+|+Full+Stack+Developer&center=true&width=700&height=70&size=30)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Facundo+Vazquez+|+Full+Stack+Developer&center=true&width=700&height=70&size=30)
 
 💻 Estudiante de Programación (UTN)  
 📍 Buenos Aires, Argentina  
