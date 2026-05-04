@@ -5,13 +5,6 @@
 
 ---
 
-## 🚀 Sobre mí
-- Enfocado en backend y bases de datos  
-- Construyendo proyectos para consolidar lógica y desarrollo real  
-- Objetivo: convertirme en desarrollador fullstack (MERN)
-
----
-
 ## Tecnologías y herramientas
 
 ### Frontend
