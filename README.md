@@ -1,17 +1,29 @@
-# Hola 👋 Soy Facundo Vazquez
+# 👋 Hola, soy Facundo Vazquez
 
-Soy estudiante de la Tecnicatura en Programación, enfocado en desarrollo backend y bases de datos.
+💻 Estudiante de Programación (UTN)  
+📍 Buenos Aires, Argentina  
 
-## 🧠 Tecnologías y conocimientos
-- Java (fundamentos)
-- JavaScript (ES6+)
-- HTML y CSS
-- MySQL (modelado, consultas y filtros)
-- Lógica de programación
+---
 
-## ⚙️ Herramientas
-- MySQL Workbench
-- Git y GitHub
+## 🚀 Sobre mí
+- Enfocado en backend y bases de datos
+- Aprendiendo JavaScript (ES6+)
+- Interés en desarrollo fullstack (MERN)
 
-## 🎯 Objetivo
-Seguir mejorando en backend, bases de datos y resolución de problemas mediante práctica y proyectos.
+---
+
+## 🧠 Tecnologías
+![Java](https://skillicons.dev/icons?i=java)
+![JS](https://skillicons.dev/icons?i=js)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+
+---
+
+## 📊 Estadísticas
+![Stats](https://github-readme-stats.vercel.app/api?username=facuvazquez1&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=facuvazquez1&layout=compact&theme=dark)
+
+
