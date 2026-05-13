@@ -11,36 +11,13 @@
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=js)
-![React](https://skillicons.dev/icons?i=react)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 
 ### Gestión
-![npm](https://skillicons.dev/icons?i=npm)
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 
-### Backend
-![Node.js](https://skillicons.dev/icons?i=nodejs)
 
-- REST APIs  
-- JWT Auth  
-- Redis  
-
-### Bases de datos
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-
-### Sistemas
-![Linux](https://skillicons.dev/icons?i=linux)
-
-### Cloud / DevOps
-![AWS](https://skillicons.dev/icons?i=aws)
-![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
-
-- EC2, VPC, S3, Route53, SES  
-- CI/CD  
-- Monitoreo (Monit)  
-- Ansible  
-- Terraform  
 
 
 
